@@ -1,4 +1,3 @@
-
 <h1>Description</h1>
 
 <ul>
@@ -27,19 +26,12 @@ If you're interrested in dowloading the source code of the game, you can find th
 </ul>
 
 ## Preview
-<img src="./Preview/img1.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img2.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img3.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img4.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img16.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img5.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img6.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img7.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img8.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img9.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img10.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img11.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img12.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img13.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img14.png" alt="Logo" width="800" height="400">
-<img src="./Preview/img15.png" alt="Logo" width="800" height="400">
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bbda09d9-1912-4497-9cfb-33d5fe17e093" />
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7e34f8f0-cf90-4a0f-b7cc-482d95f70362" />
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/97547c4c-bc74-48a9-b5af-8d8ea3df9ef6" />
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/583efc4f-be25-4f79-be94-51d07dcc528e" />
+
